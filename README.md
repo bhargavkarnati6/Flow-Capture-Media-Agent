@@ -2,7 +2,7 @@
 
 A Java application demonstrating a clean, layered backend architecture: it **ingests** media metadata from an external source, **persists** it to a real relational database via JDBC, and **serves** it back out through a REST API — all built on the Java SE standard library plus one JDBC driver, with an automated JUnit test suite.
 
-Built as a portfolio piece for a Software Engineering Co-op application, specifically to demonstrate the qualifications called out in the job posting: object-oriented backend development in Java, REST API design, relational database usage, and automated testing.
+Built as a portfolio piece specifically to demonstrate object-oriented backend development in Java, REST API design, relational database usage, and automated testing.
 
 ---
 
